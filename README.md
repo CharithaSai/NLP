@@ -1,8 +1,9 @@
 # NLP
 
 
-NeuralMachineTranslation.ipynb file has the implementation of all the three models
-Performance of Tokenizer.py file has the implementation of different tokenization methods
+NeuralMachineTranslation.ipynb file has the implementation of all the three models.			
+Performance of Tokenizer.py file has the implementation of different tokenization methods.			
+Gita.txt file has the data which is used for tokenization.
 
 The main aim of this project is :
 To implement Transformers with attention mechanism to translate German to English. 
