@@ -11,3 +11,7 @@ To implement Sequence to Sequence (LSTM) and Sequence to Sequence with Attention
 To compare the performances of the models with different learning rates and optimizers
 To propose the efficient combination. 
 To explore different Tokenization methods and compare their performances.
+
+
+References:
+https://github.com/bentrevett
